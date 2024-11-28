@@ -40,7 +40,9 @@ Scalable Design: The inclusion of well-structured dimensions ensures adaptabilit
 Real-World Application: The schemas reflect real-world scenarios like car sales, showcasing their practical relevance to business operations.
 
 Potential Next Steps
+
 Populate the data warehouse schema with realistic sample data to simulate reporting scenarios.
 Expand my understanding of ETL processes to load data into the schema efficiently.
 Explore visualization tools like Looker or Tableau to create dashboards for presenting analytical insights.
+
 This lab taught me how data systems can empower businesses through structured insights, and it inspired me to think beyond the technical aspects, applying creativity and business-focused problem-solving.
